@@ -8,7 +8,7 @@ This project presents a development of the game "Pong" in JavaScript language, u
 - Download the folder `PONG GAME`.
 - Run the file `pongdev.js` in your code editor. You can run it in VSCode using the extension `Liver Server`.
 - In your browser or code editor, select the option `PONG GAME`.
-- Now you can just play!
+- PLAY!
 
 ## How to play it?
 - Keys `↑` and `↓` move the `Player Racket (yours)` `UP` and `DOWN` respectively.
