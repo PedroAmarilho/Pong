@@ -1,18 +1,18 @@
 ## Pong 
-Por Pedro Amarilho Almeida Macedo
+By Pedro Amarilho Almeida Macedo
 
-## O que é este projeto?
-Este projeto apresenta o desenvolvimento do jogo "Pong" na linguagem JavaScript, utilizando o editor de código Visual Studio. 
+## What is this project about?
+This project presents a development of the game "Pong" in JavaScript language, using Visual Studio Code editor.
 
-## Como rodar o jogo (Modo para um Jogador)
-- Faça o download da pasta `PONG GAME`.
-- Execute o arquivo `pongdev.js` utilizando a extensão `Liver Server` do seu editor de código.
-- Na aba do seu navegador ou editor de código, seleciona a opção `PONG GAME`.
-- Agora é só jogar!
+## How to run it
+- Download the folder `PONG GAME`.
+- Run the file `pongdev.js` in your code editor. You can run it in VSCode using the extension `Liver Server`.
+- In your browser or code editor, select the option `PONG GAME`.
+- Now you can just play!
 
-## Como jogar?
-- As teclas `↑` e `↓` movimentam a `Raquete do Jogador` para cima e para baixo, respectivamente.
-- A pontuação é contabilizada a partir do contado com borda da tela do jogador ou do oponente.
-- Cada contato ou ponto faz com que a `bolinha` retorne ao centro da tela.
+## How to play it?
+- Keys `↑` and `↓` move the `Player Racket (yours)` `UP` and `DOWN` respectively.
+- The score is counted after a toucn at the edge of the player's or opponent's screen. 
+- Each touch counts a point in the score board. The `Ball` will return to the center of the court after every point.C
 
-## BOM JOGO!
+## GOOD LUCK AND HAVE A NICE GAME!
